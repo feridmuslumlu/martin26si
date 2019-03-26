@@ -1,0 +1,163 @@
+body{
+    margin:0;
+    padding:0;
+}
+   
+
+#header {
+ padding:10px 25px;
+ display: inline-block;
+ background: black;
+ display: flex;
+
+} 
+#header .menu ul li{
+    display: inline-block;
+    color: #fff;
+    padding:10px 60px
+}
+a{
+font-size: 36px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: #fff;
+}
+.digital{
+
+padding-left: 40px;
+background-image: url("http://gentium.pixerex.com/wp/wp-content/uploads/2019/01/hero_02.jpg");
+background-position:center center;
+background-size: cover;
+
+    
+}
+.aa{
+   padding-left: 40px
+}
+.kk{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.mmm{
+    font-size: 100px;
+    color: white
+}
+.mm {
+    background: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: -0.2px;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #e9204f;
+    padding: 20px 40px 20px 40px;
+
+
+
+}
+.te{
+    font-size: 30px;
+    padding-top: 20PX;
+    background: #e9204f;
+    margin: 20px
+;}
+    
+    .kk{
+
+        background: #e9204f}
+
+
+.yazi{
+    font-size: 50px;
+}
+.services{
+   padding-left: 40px;;
+}
+.n{
+    color:     #e9204f;
+   font-size: 30px;
+margin-top: -30px;
+font-family: "Trade Gothic", sans-serif;
+    }
+    .strategy{
+        width: 33.333%;
+        background-color: gray
+    }
+    .hh{
+        background: grey;
+
+    }
+    .altyazi{
+        color: #e9204f;
+        font-size: 50px
+    }
+    .works{
+        padding-left: 40px
+    }
+    .clear{
+        clear: both;
+    }
+    .ww{
+        color: #e9204f
+    }
+    .zz{
+       float:right;
+       padding-left:450px;
+       padding-top: -400px
+
+    }
+    .n{
+        font-size: 15px
+    }
+    .l{
+        padding-left: 800px;
+        padding-top: -190px
+    }
+    .cc{
+    width:33%;
+    
+    }
+    .n{
+        color:gray
+
+    }
+
+   .digitalw{
+
+    filter: brightness( 100% ) contrast( 100% ) saturate( 0% ) blur( 0px ) hue-rotate( 0deg );
+   }
+    .digitalw:hover{
+        filter: brightness( 100% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );
+
+    
+ 
+
+    }
+    .hb{
+      padding: 30px;
+      background: rgb(241, 224, 143);
+      box-sizing: border-box;
+    }
+.service-item{
+    padding: 30px;
+    font-size: 16px;
+    background: #ddd;
+}
+.service-item:hover{
+    background: #f10000
+}
+.nnn{
+    padding: 30px;
+    background: rgb(241, 224, 143);
+    padd-left: 10px
+}
+.nnn:hover{
+    background: #f10000
+    
+}
+.mm:hover{background: #f10000
+    
+
+}
+
